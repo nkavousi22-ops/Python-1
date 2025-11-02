@@ -4,3 +4,5 @@ from termcolor import colored
 init()
 
 print(colored('Hello, World!', 'green', 'on_blue'))
+print(colored('by every body!', 'pink', 'on_blue'))
+
